@@ -1,0 +1,15 @@
+To use app, buy from us, we will create an account from your shop and give you an owner access using which you can create employee accounts and circulate among your employees.
+
+We manually add your shop in the database, and provide you an owner username-password credential for that shop.
+
+Then you can log in as owner and have options of:
+-View History (DayWise for the past 1 month and EmployeeWise for the past 1 month)
+-Add Amount
+-Remove Amount
+-Add Employee
+-Remove Employee
+
+Your employees are able choose shop, choose “employee”, enter credentials and add new amounts to the database.
+Each bill will have billAmount, EmployeeName, BillTime and BillDate. It will be added to the list of Bills.
+
+“The login info will be saved once they are logged in. Later they can also log out and log in again.”
